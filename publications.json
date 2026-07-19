@@ -1,53 +1,180 @@
 {
   "publications": [
+    
     {
-      "title": "[Paper Title 1]",
+      "title": "Pigeonholing: how bad prompts hurt models, causing collapse and mistakes",
       "authors": [
-        "Author 1*",
-        "Author 2*",
-        "Author 3",
-        "Author 4",
-        "Author 5",
-        "Author 6",
-        "Author 7",
-        "Author 8",
-        "Author 9",
-        "Author 10",
-        "Author 11†",
-        "Author 12†"
+        "Hyunji Nam",
+        "Keertana Chidambaram",
+        "Dorottya Demszky",
+        "Natasha Jaques"
       ],
-      "venue": "Preprint (2025)",
-      "thumbnail": "images/thumbs/1.jpg",
+      "venue": "Under review, 2026",
       "selected": 1,
       "award": "",
       "links": {
-        "pdf": "#",
-        "code": "#",
-        "project": "#"
+        "pdf": "https://arxiv.org/abs/2606.24267",
+        "code": "#"
       }
     },
     {
-      "title": "[Paper Title 2]",
+      "title": "Mitigating LLM biases toward spurious social contexts using direct preference optimization",
       "authors": [
-        "Author 1*",
-        "Author 2*",
-        "Author 3",
-        "Author 4",
-        "Author 5",
-        "Author 6",
-        "Author 7",
-        "Author 8",
-        "Author 9",
-        "Author 10",
-        "Author 11"
+        "Hyunji Nam",
+        "Dorottya Demszky"
       ],
-      "venue": "Preprint (2025)",
-      "thumbnail": "images/thumbs/2.jpg",
+      "venue": "Conference on Language Modeling (COLM), 2026",
+      "selected": 1,
+      "award": "",
+      "links": {
+        "pdf": "https://arxiv.org/abs/2604.02585",
+        "code": "https://github.com/nam630/debiasing_dpo"
+      }
+    },
+    {
+      "title": "Can large language models match human diversity in educational content generation?",
+      "authors": [
+        "Mei Tan*",
+        "Hyunji Nam*",
+        "Dorottya Demszky"
+      ],
+      "venue": "Conference on Language Modeling (COLM), 2026 & ICML Workshop on Human-AI Co-Creativity, 2026",
+      "selected": 1,
+      "award": "",
+      "links": {
+        "pdf": "https://genaicreativity.org/icml2026/files/32/32_paper.pdf"
+      }
+    },
+    {
+      "title": "Maximizing mutual information between prompt and response improves LLM performance with no additional data",
+      "authors": [
+        "Hyunji Nam",
+        "Haoran Li",
+        "Natasha Jaques"
+      ],
+      "venue": "International Conference on Machine Learning (ICML), 2026",
+      "selected": 1,
+      "award": "",
+      "links": {
+        "pdf": "https://arxiv.org/pdf/2603.19294",
+        "code": "https://github.com/nam630/mutual_information_preference_optimization"
+      }
+    },
+    {
+      "title": "Learning to summarize user information for personalized reinforcement learning from human feedback",
+      "authors": [
+        "Hyunji Nam",
+        "Yanming Wan",
+        "Mickel Liu",
+        "Peter Ahnn",
+        "Jianxun Lian",
+        "Natasha Jaques"
+      ],
+      "venue": "International Conference on Learning Representations (ICLR), 2026",
+      "selected": 1,
+      "award": "",
+      "links": {
+        "pdf": "https://arxiv.org/abs/2507.13579",
+        "code": "https://github.com/nam630/pluralistic_user_summary_public"
+      }
+    },
+    {
+      "title": "IDEAlign: Comparing ideas of large language models to domain experts",
+      "authors": [
+        "Hyunji Nam",
+        "Lucia Langlois",
+        "Jim Malamut",
+        "Mei Tan",
+        "Dorottya Demszky"
+      ],
+      "venue": "European Chapter of the Association for Computational Linguistics (EACL), 2026",
+      "selected": 1,
+      "award": "",
+      "links": {
+        "pdf": "https://aclanthology.org/2026.eacl-long.182/",
+        "code": "https://github.com/EduNLP/IDEAlign"
+      }
+    },
+    {
+      "title": "Modeling diverse preferences in movie artwork personalization with large language models",
+      "authors": [
+        "Hyunji Nam",
+        "Sejoon Oh",
+        "Emma Kong",
+        "Yesu Feng",
+        "Moumita Bhattacharya"
+      ],
+      "venue": "ICML Workshop on Pluralistic Alignment, 2026",
       "selected": 0,
       "award": "",
       "links": {
-        "pdf": "#"
+        "pdf": "https://openreview.net/forum?id=NPpYY9sgH9"
       }
+    },
+    {
+      "title": "Efficient RL for optimizing multi-turn student outcomes with LLM tutors",
+      "authors": [
+        "Hyunji Nam",
+        "Omer Gottesman",
+        "Amy Zhang",
+        "Dean Foster",
+        "Emma Brunskill",
+        "Lyle Ungar"
+      ],
+      "venue": "NeurIPS Workshop on Multi-turn Interactions in Large Language Models, 2025",
+      "selected": 1,
+      "award": "",
+      "links": {
+        "pdf": "https://neurips.cc/virtual/2025/loc/san-diego/128055"
+      }
+    },
+
+    {
+      "title": "Information directed tree search: Reasoning and planning with language agents",
+      "authors": [
+        "Yash Chandak",
+        "Hyunji Nam",
+        "Allen Nie",
+        "Jonathan Lee",
+        "Emma Brunskill"
+      ],
+      "venue": "NeurIPS Workshop on Bayesian Decision-Making and Uncertainty, 2024",
+      "selected": 0,
+      "award": "",
+      "links": {
+        "pdf": "https://neurips.cc/virtual/2024/98870"
+      }
+    },
+    {
+      "title": "Reinforcement learning with state observation costs in action-contingent noiselessly observation Markov Decision Processes",
+      "authors": [
+        "Hyunji Nam*",
+        "Scott Fleming*",
+        "Emma Brunskill"
+      ],
+      "venue": "Advances in Neural Information Processing Systems (NeurIPS), 2021",
+      "selected": 0,
+      "award": "",
+      "links": {
+        "pdf": "https://proceedings.neurips.cc/paper/2021/hash/83e8fe6279ad25f15b23c6298c6a3584-Abstract.html",
+        "code": "https://github.com/nam630/acno_mdp"
+      }
+    },
+    {
+      "title": "Batch exploration with examples for scalable robotic reinforcemet learning",
+      "authors": [
+        "Annie Chen*",
+        "Hyunji Nam*",
+        "Suraj Nair*",
+        "Chelsea Finn"
+      ],
+      "venue": "Robotics and Automation Letters (RA-L), 2021",
+      "selected": 0,
+      "award": "",
+      "links": {
+        "pdf": "https://arxiv.org/abs/2010.11917",
+        "website": "https://sites.google.com/view/batch-exploration",
+        "code": "https://github.com/stanford-iris-lab/batch-exploration"}
     }
   ]
 }
