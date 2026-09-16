@@ -9,12 +9,12 @@
         "Dorottya Demszky",
         "Natasha Jaques"
       ],
-      "venue": "Under review, 2026",
+      "venue": "Findings of Empirical Methods in Natural Language Processing (EMNLP), 2026",
       "selected": 1,
       "award": "",
       "links": {
         "pdf": "https://arxiv.org/abs/2606.24267",
-        "code": "#"
+        "code": "https://github.com/nam630/language_model_pigeonholing"
       }
     },
     {
